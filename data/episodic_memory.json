@@ -1,0 +1,190 @@
+[
+    {
+        "query": "give me latest news on pepsi",
+        "tools_used": [
+            "company_news",
+            "stock_data"
+        ]
+    },
+    {
+        "query": "analyze coca cola and pepsi and tell me which is best to invest",
+        "tools_used": [
+            "stock_data"
+        ]
+    },
+    {
+        "query": "analyze nvidia and tell the lastest news with the investing oppurtunity",
+        "tools_used": [
+            "stock_data",
+            "company_news"
+        ]
+    },
+    {
+        "query": "analyze the tesla stocks and latest news and give the investment oppurtunity",
+        "tools_used": [
+            "stock_data"
+        ]
+    },
+    {
+        "query": "Analyze NVIDIA as an AI investment with valuation and news",
+        "tools_used": [
+            "stock_data"
+        ]
+    },
+    {
+        "query": "Evaluate Microsoft fundamentals and latest developments",
+        "tools_used": [
+            "stock_data"
+        ]
+    },
+    {
+        "query": "Analyze NVIDIA with valuation and latest news",
+        "tools_used": [
+            "stock_data",
+            "company_news",
+            "financial_metrics"
+        ]
+    },
+    {
+        "query": "Analyze Apple risks using SEC filings",
+        "tools_used": [
+            "sec_filing",
+            "financial_metrics",
+            "sec_filing"
+        ]
+    },
+    {
+        "query": "Analyze NVIDIA as a long-term AI investment using valuation metrics, news, and SEC filings",
+        "tools_used": [
+            "stock_data",
+            "company_news",
+            "financial_metrics",
+            "sec_filing"
+        ]
+    },
+    {
+        "query": "Analyze NVIDIA risks using SEC filings and valuation data",
+        "tools_used": [
+            "sec_filing",
+            "financial_metrics",
+            "stock_data"
+        ]
+    },
+    {
+        "query": "analyze tesla risks factors using sec fillings and valuation",
+        "tools_used": [
+            "sec_filing",
+            "financial_metrics",
+            "sec_filing",
+            "financial_metrics"
+        ]
+    },
+    {
+        "query": "Analyze Tesla investment risks and opportunities using SEC filings, metrics, and news",
+        "tools_used": [
+            "sec_filing",
+            "financial_metrics",
+            "company_news",
+            "stock_data"
+        ]
+    },
+    {
+        "query": "analyze tesla stock and valuation for investment using fillings",
+        "tools_used": [
+            "stock_data",
+            "sec_filing",
+            "financial_metrics",
+            "sec_filing"
+        ]
+    },
+    {
+        "query": "Analyze NVIDIA as a long-term AI investment using SEC filings, news, and valuation metrics",
+        "tools_used": [
+            "sec_filing",
+            "company_news",
+            "financial_metrics",
+            "stock_data",
+            "sec_filing"
+        ]
+    },
+    {
+        "query": "analyze tesla risks factors using sec fillings and valuation",
+        "tools_used": [
+            "sec_filing",
+            "financial_metrics",
+            "sec_filing",
+            "financial_metrics"
+        ]
+    },
+    {
+        "query": "Analyze NVIDIA as a long-term AI investment using valuation metrics, news, and SEC filings",
+        "tools_used": [
+            "stock_data",
+            "company_news",
+            "financial_metrics",
+            "sec_filing"
+        ]
+    },
+    {
+        "query": "Analyze Tesla investment risks and opportunities using SEC filings, metrics, and news",
+        "tools_used": [
+            "sec_filing",
+            "financial_metrics",
+            "company_news",
+            "stock_data"
+        ]
+    },
+    {
+        "query": "Analyze NVIDIA as a long-term AI investment using valuation metrics, news, and SEC filings",
+        "tools_used": [
+            "stock_data",
+            "company_news",
+            "financial_metrics",
+            "sec_filing"
+        ]
+    },
+    {
+        "query": "analyze tesla stocks for investment",
+        "tools_used": [
+            "stock_data",
+            "company_news",
+            "financial_metrics",
+            "sec_filing"
+        ]
+    },
+    {
+        "query": "Analyze NVIDIA as a long-term AI investment",
+        "tools_used": [
+            "stock_data",
+            "company_news",
+            "financial_metrics",
+            "sec_filing"
+        ]
+    },
+    {
+        "query": "Analyze NVIDIA as a long-term AI investment",
+        "tools_used": [
+            "stock_data",
+            "company_news",
+            "financial_metrics",
+            "sec_filing"
+        ]
+    },
+    {
+        "query": "analyze tesla stocks using fillings\n",
+        "tools_used": [
+            "sec_filing",
+            "financial_metrics",
+            "stock_data"
+        ]
+    },
+    {
+        "query": "Analyze NVIDIA as a long-term investment using SEC filings, news, and valuation metrics.",
+        "tools_used": [
+            "sec_filing",
+            "company_news",
+            "financial_metrics",
+            "stock_data"
+        ]
+    }
+]

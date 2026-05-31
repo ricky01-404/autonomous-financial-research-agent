@@ -1,0 +1,17 @@
+groq
+langchain
+langgraph
+chromadb
+faiss-cpu
+yfinance
+sec-edgar-downloader
+requests
+beautifulsoup4
+pandas
+numpy
+python-dotenv
+tqdm
+fastapi
+uvicorn
+streamlit
+plotly
