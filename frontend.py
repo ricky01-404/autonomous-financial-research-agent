@@ -1,9 +1,10 @@
+from urllib import response
+
 import streamlit as st
-import requests
 import pandas as pd
 import yfinance as yf
 import plotly.graph_objects as go
-
+from app.main import financial_agent
 
 # -----------------------------------
 # PAGE CONFIG
@@ -168,20 +169,7 @@ if st.button("🚀 Generate Research Report"):
 
             try:
 
-                response = requests.post(
-                    "http://127.0.0.1:8000/research",
-                    json={
-                        "query": query
-                    }
-                )
-
-                result = response.json()
-
-                report = result.get(
-                    "report",
-                    "No report generated."
-                )
-
+                report = financial_agent(query)
                 # -----------------------------------
                 # SUCCESS MESSAGE
                 # -----------------------------------
